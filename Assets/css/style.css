@@ -85,7 +85,7 @@ ul {
 .header-nav a {
   text-decoration: none;
   border-bottom: 3px solid white;
-  padding-bottom: 6px;
+  padding: 6px 0;
   margin-left: 40px;
   color: white;
 }
@@ -174,22 +174,22 @@ ul {
   background-size: cover;
 }
 .cardImage0 {
-  background-image: url("https://cdn.pixabay.com/photo/2013/10/02/23/03/mountains-190055_960_720.jpg");
+  background-image: url("../images/windmill[JPEG].jpg");
 }
 .cardImage1 {
   background-image: url("../images/landscape-mobile.jpg");
 }
 .cardImage2 {
-  background-image: url("../images/windmill[JPEG].jpg");
+  background-image: url("../images/CONTROLLER02-[Finished].jpg");
 }
 .cardImage3 {
-  background-image: url("../images/landscape-mobile.jpg");
+  background-image: url("https://cdn.pixabay.com/photo/2016/02/13/12/26/aurora-1197753_960_720.jpg");
 }
 .cardImage4 {
-  background-image: url("../images/landscape-mobile.jpg");
+  background-image: url("https://cdn.pixabay.com/photo/2016/09/29/13/08/planet-1702788_960_720.jpg");
 }
 .cardImage5 {
-  background-image: url("../images/landscape-mobile.jpg");
+  background-image: url("https://cdn.pixabay.com/photo/2014/01/22/19/44/flower-field-250016_960_720.jpg");
 }
 .card-bottom {
   height: 15%;

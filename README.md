@@ -1,5 +1,7 @@
 # 🏗️ Professional Portfolio
 
+# User Story
+
 - As a developer I want to create a portfolio that describes who I am, and shows of my completed projects
 
 ## Acceptance Criteria
@@ -28,8 +30,22 @@ The following image demonstrates the web application's appearance at full screen
 
 - CSS Folder
 - Image Folder
+  - website example
+  - jlogo
+  - landscape
+  - windmill
+  - controller
 - index.html
 - README.MD
+
+---
+
+## Outside Sources
+
+- https://pixabay.com/photos/aurora-northern-lights-1197753/
+- https://pixabay.com/photos/mountains-sun-clouds-peak-summit-190055/
+- https://pixabay.com/illustrations/planet-science-fiction-fantasy-world-1702788/
+- https://pixabay.com/photos/flower-field-flowers-field-trees-250016/
 
 ---
 
