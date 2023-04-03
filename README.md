@@ -24,7 +24,7 @@
 
 The following image demonstrates the web application's appearance at full screen:
 
-![Full webpage with each section and hero picture](./Assets/images/Website-screenshot.png)
+![Full webpage with each section and hero picture](./assets/images/Website-screenshot.png)
 
 ---
 
